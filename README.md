@@ -17,3 +17,4 @@ El proyecto consta de 6 bloques:
 
 Functions_for_FMP: Este notebook contiene una gran mayoria de las funciones utilizadas en todos los notebooks. Es utilizado como una librería o modulo.
 
+Los datos fueron tomados de un desafío Kaggle: https://www.kaggle.com/c/football-match-probability-prediction y pertenecen a Octosport and Sportmonks.
