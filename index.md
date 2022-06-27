@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<ul>
+{% for date in site.Dataset.train %}
+  <li>{{ date.Name" }}-{{ date.Published }}</li>
+{% endfor %}
+</ul>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
